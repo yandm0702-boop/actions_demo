@@ -231,3 +231,4 @@ if __name__ == "__main__":
     print("\n--- Дополнительная информация ---")
     lib.show_all_books()
     lib.show_available_books()
+
